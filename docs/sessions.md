@@ -1,7 +1,7 @@
 # Sessions
 
 
-Here are the list of the sessions[^1] (practical and theory) which have taken place, over the past few years :
+Here's the list of the sessions[^1] (practical and theory) which have taken place, over the past few years :
 
 - 
 
