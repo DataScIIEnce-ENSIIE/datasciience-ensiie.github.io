@@ -55,6 +55,7 @@ nav:
   - Home: "../"
   - Bureau: "../admin"
   - Sessions: "../sessions"
+  - References: "../references"
   - Contact: "../contact"
   - License: "../license"
 markdown_extensions:
