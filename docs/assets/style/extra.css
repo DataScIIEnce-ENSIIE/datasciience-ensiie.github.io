@@ -1,8 +1,12 @@
 :root {
-    --md-primary-fg-color: #555 !important;
-    --md-primary-fg-color--light: #777 !important;
-    --md-primary-fg-color--dark: yellow !important;
+    --md-primary-fg-color: rgb(119, 119, 119) !important;
+    --md-primary-fg-color--light: black !important;
+    --md-primary-fg-color--dark: black !important;
 
     --md-accent-fg-color: blue;
     --md-accent-fg-color--light: red;
+}
+
+.md-tabs__link {
+    color: white;
 }
