@@ -1,6 +1,10 @@
 # Administrators
 
+The *Bureau* is composed of several students who have a deep passion about data science/engineering, Machine, Reinforcement & Deep Learning.
+
 ## General organization
+
+The main organization follows this chart :
 
 ``` mermaid
 graph LR
@@ -22,7 +26,16 @@ graph LR
     end
 ```
 
-## 2022/2023
+## 2022/2023 (current)
+
+- President
+    - **-** : [LinkedIn]()
+- Vice-President
+    - **-** : [LinkedIn]()
+- Treasurer
+    - **-** : [LinkedIn]()
+- Secretary General
+    - **-** : [LinkedIn]()
 
 ## 2021/2022
 
@@ -56,3 +69,7 @@ graph LR
     - **-** : [LinkedIn]()
 - Secretary General
     - **-** : [LinkedIn]()
+
+## About
+
+- Creation: 2019
