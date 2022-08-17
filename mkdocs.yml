@@ -12,7 +12,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
   font:
-    text: Lato
+    text: Roboto
     code: Roboto Mono
   name: material
   palette:
@@ -28,7 +28,7 @@ extra_css:
   - assets/style/extra.css
 
 extra_javascript:
-  - assets/javascripts/extra.js
+  - assets/scripts/extra.js
 
 site_url: https://datasciience-ensiie.github.io
 
