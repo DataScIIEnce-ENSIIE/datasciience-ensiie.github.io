@@ -1,9 +1,10 @@
 site_name: DataScIIEnce
-copyright: Copyright &copy; 2022 DataScIIEnce. All rights reserved
+copyright: Copyright &copy; 2022 <b>DataScIIEnce</b>. All rights reserved<br> Machine & Deep learning association of <b>ENSIIE</b>
 repo_name: Git repository
 repo_url: https://github.com/DataScIIEnce-ENSIIE/datasciience-ensiie.github.io
 edit_uri: edit/main/docs/
 theme:
+  custom_dir: overrides
   favicon: assets/img/logo_DS_transparent_alt.png
   logo: assets/img/logo_DS_transparent_alt.png
   icon:
@@ -31,11 +32,23 @@ extra_javascript:
   - assets/scripts/extra.js
 
 site_url: https://datasciience-ensiie.github.io
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/DataScIIEnce-ENSIIE/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/datasciience
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/datasciience_club
+    - icon: fontawesome/solid/envelope
+      link: mailto:datasciience@gmail.com
+    - icon: fontawesome/solid/compass
+      link: https://datasciience.iiens.net/
 
 nav:
   - Home: "../"
   - Contact: "../contact"
-
 markdown_extensions:
   - admonition
   - pymdownx.details
