@@ -4,6 +4,8 @@
 
 ``` mermaid
 graph LR
+    style Executive color:green, stroke:green
+    style Operational color:blue, stroke:blue
     subgraph Executive
         President[President] -.-> VP[Vice-President]
     end
@@ -18,9 +20,6 @@ graph LR
         SecGen -.-> HeadEvents[Head of Events]
         SecGen -.-> Support[Support]
     end
-    style Executive color:red, stroke:red
-    style Operational color:green, stroke:green
-
 ```
 
 ## 2022/2023
