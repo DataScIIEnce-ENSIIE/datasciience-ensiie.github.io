@@ -55,6 +55,7 @@ nav:
   - Home: "../"
   - Bureau: "../admin"
   - Contact: "../contact"
+  - License: "../license"
 markdown_extensions:
   - admonition
   - pymdownx.details
