@@ -10,3 +10,9 @@
 .md-tabs__link {
     color: white;
 }
+
+.md-tabs__item:last-child a.md-tabs__link:last-child {
+    color: blue !important;
+    font-style: italic;
+    font-weight: bold;
+}
