@@ -37,17 +37,23 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/DataScIIEnce-ENSIIE/
+      name: GitHub
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/datasciience
+      name: LinkedIn
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/datasciience_club
+      name: Instagram
     - icon: fontawesome/solid/envelope
       link: mailto:datasciience@gmail.com
+      name: Official email address
     - icon: fontawesome/solid/compass
       link: https://datasciience.iiens.net/
+      name: Official website
 
 nav:
   - Home: "../"
+  - Bureau: "../admin"
   - Contact: "../contact"
 markdown_extensions:
   - admonition
