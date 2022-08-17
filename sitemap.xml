@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://datasciience-ensiie.github.io/references/</loc>
+         <lastmod>2022-08-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://datasciience-ensiie.github.io/sessions/</loc>
          <lastmod>2022-08-17</lastmod>
          <changefreq>daily</changefreq>
