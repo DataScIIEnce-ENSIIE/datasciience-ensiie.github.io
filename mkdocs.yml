@@ -4,8 +4,8 @@ repo_name: Git repository
 repo_url: https://github.com/DataScIIEnce-ENSIIE/datasciience-ensiie.github.io
 edit_uri: edit/main/docs/
 theme:
-  favicon: img/logo.png
-  logo: img/logo.png
+  favicon: assets/img/logo_DS_transparent_alt.png
+  logo: assets/img/logo_DS_transparent_alt.png
   icon:
     repo: fontawesome/brands/github
   features:
@@ -25,10 +25,10 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 extra_css:
-  - stylesheets/extra.css
+  - assets/style/extra.css
 
 extra_javascript:
-  - javascripts/extra.js
+  - assets/javascripts/extra.js
 
 site_url: https://datasciience-ensiie.github.io
 
@@ -40,3 +40,4 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+#9ad0f4
