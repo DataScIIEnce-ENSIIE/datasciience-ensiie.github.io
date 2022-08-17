@@ -18,6 +18,8 @@ graph LR
         SecGen -.-> HeadEvents[Head of Events]
         SecGen -.-> Support[Support]
     end
+    style Executive color:red, stroke:red
+    style Operational color:green, stroke:green
 
 ```
 
