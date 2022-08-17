@@ -1,0 +1,42 @@
+site_name: DataScIIEnce
+copyright: Copyright &copy; 2022 DataScIIEnce. All rights reserved
+repo_name: Git repository
+repo_url: https://github.com/DataScIIEnce-ENSIIE/datasciience-ensiie.github.io
+edit_uri: edit/main/docs/
+theme:
+  favicon: img/logo.png
+  logo: img/logo.png
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+  font:
+    text: Lato
+    code: Roboto Mono
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
+
+site_url: https://datasciience-ensiie.github.io
+
+nav:
+  - Home: "../"
+  - Contact: "../contact"
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
