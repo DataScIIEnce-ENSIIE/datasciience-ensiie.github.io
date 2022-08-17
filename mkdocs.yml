@@ -54,9 +54,11 @@ extra:
 nav:
   - Home: "../"
   - Bureau: "../admin"
+  - Sessions: "../sessions"
   - Contact: "../contact"
   - License: "../license"
 markdown_extensions:
   - admonition
+  - footnotes
   - pymdownx.details
   - pymdownx.superfences
