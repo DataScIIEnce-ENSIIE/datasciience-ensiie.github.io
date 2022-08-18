@@ -104,7 +104,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Welcome to DataScIIEnce
+              Home
             
           </span>
         </div>
@@ -526,6 +526,13 @@
 
 
 
+<p><link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+   crossorigin=""/></p>
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+   crossorigin=""></script>
+
 <h1 id="welcome-to-datasciience">Welcome to DataScIIEnce</h1>
 <p align="center">
     <img src="assets/img/logo_DS_transparent_alt.png" width="320px">
@@ -535,8 +542,13 @@
 <p>Welcome to the <strong>DataScIIEnce</strong> official GitHub webpage, which centralizes the different projects, sessions materials and snippets useful for Machine Learning and Data Analysis.</p>
 <p><strong>DataScIIEnce</strong> is the Data science, Machine &amp; Deep learning student club of <strong>ENSIIE Paris</strong>, French engineering school specialized in applied mathematics, high-performance computing and computer science.</p>
 <h2 id="who-are-we">Who are we ?</h2>
+<p>We are a group of student passionate about <strong>Data science</strong>, <strong>Machine learning</strong> and <strong>Deep Learning</strong> applied to various industrial use cases.</p>
 <h2 id="where-are-we">Where are we ?</h2>
+<p>We are situated in our <em>French</em> engineering school : <strong>ENSIIE Paris</strong><sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>. at Évry-Courcouronnes, France.</p>
+<div id="map" style="height:450px; z-index:-9999;"></div>
+
 <h2 id="follow-us">Follow us</h2>
+<p>You can use these networks to stay in touch with our team, follow our activities and share your interest with people deeply involved in the community.</p>
 <ul>
 <li><a href="https://www.linkedin.com/company/datasciience">LinkedIn</a></li>
 <li><a href="https://instagram.com/datasciience_club">Instagram</a></li>
@@ -548,7 +560,30 @@
 <p>Email : <span id='email'></span></p>
 
 <p><button onclick="document.getElementById('email').innerHTML = '\<a>datasciience@gmail.com\</a>';" id="show-email">Show email address</button></p>
+<script type="text/javascript">
+function initialize() {
+    console.log("Showing map !");
+    var map = L.map('map').setView([48.62668, 2.43218], 16);
+    var marker = L.marker([48.62668, 2.43218]).addTo(map);
+    marker.bindPopup("<img src='https://datasciience-ensiie.github.io/assets/img/logo_DS_transparent_alt.png' width='80'><br><b>DataScIIEnce</b><br>1, Square de la Résistance<br>91000 Evry-Courcouronnes").openPopup();
+    var osmLayer = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+        maxZoom: 19
+    });
+
+    map.addLayer(osmLayer);
+}
+initialize();
+
+</script>
+
+<div class="footnote">
 <hr />
+<ol>
+<li id="fn:1">
+<p>ENSIIE is standing for <em>École Nationale Supérieure d'Informatique pour l'Industrie et l'Entreprise</em>.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
 
               
             </article>
