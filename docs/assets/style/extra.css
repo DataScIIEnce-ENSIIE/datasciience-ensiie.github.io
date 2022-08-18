@@ -31,3 +31,10 @@ button#show-email:focus {
     color: rgb(119, 119, 119);
     background-color: white;
 }
+
+#avertissement {
+    color: red;
+    font-weight: bold;
+    border: 2px solid red;
+    text-align: center;
+}
