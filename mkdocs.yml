@@ -75,7 +75,6 @@ nav:
   - Guide: "../guide"
   - Contact: "../contact"
   - License: "../license"
-  - English: "../english"
 markdown_extensions:
   - admonition
   - footnotes

@@ -11,8 +11,23 @@
     color: white;
 }
 
+/*
 .md-tabs__item:last-child a.md-tabs__link:last-child {
     color: blue !important;
     font-style: italic;
     font-weight: bold;
+}*/
+
+button#show-email {
+    border: 2px solid rgb(119, 119, 119);
+    padding: 10px 12px;
+    color: white;
+    cursor: pointer;
+    background-color: rgb(119, 119, 119);
+}
+
+button#show-email:hover,
+button#show-email:focus {
+    color: rgb(119, 119, 119);
+    background-color: white;
 }
