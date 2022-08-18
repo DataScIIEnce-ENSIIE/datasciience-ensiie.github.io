@@ -13,7 +13,7 @@ site_description: >-
 copyright: Copyright &copy; 2022 <b>DataScIIEnce</b>. All rights reserved<br> Machine & Deep learning association of <b>ENSIIE</b>
 
 # Repository
-repo_name: Source
+repo_name: GitHub repository
 repo_url: https://github.com/DataScIIEnce-ENSIIE/datasciience-ensiie.github.io
 
 # Configuration
@@ -47,6 +47,7 @@ extra_css:
 
 extra_javascript:
   - assets/scripts/extra.js
+  - https://unpkg.com/leaflet@1.7.1/dist/leaflet.js
 
 extra:
   generator: false
@@ -66,14 +67,18 @@ extra:
     - icon: fontawesome/solid/compass
       link: https://datasciience.iiens.net/
       name: Official website
+    - icon: fontawesome/solid/house
+      link: https://www.ensiie.fr/
+      name: School website
 
 nav:
   - Home: "../"
-  - Bureau: "../admin"
+  - About: "../about"
+  - Getting started: "../guide"
   - Sessions: "../sessions"
+  - Conferences: "../conferences"
   - References: "../references"
-  - Student pack: "../student-pack"
-  - Guide: "../guide"
+  - Useful links: "../links"
   - Contact: "../contact"
   - License: "../license"
 markdown_extensions:

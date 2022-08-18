@@ -1,4 +1,4 @@
-# Administrators
+# About
 
 The *Bureau* is composed of several students who have a deep passion about data science/engineering, Machine, Reinforcement & Deep Learning.
 
