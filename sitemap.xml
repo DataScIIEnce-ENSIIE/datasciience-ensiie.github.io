@@ -6,7 +6,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://datasciience-ensiie.github.io/admin/</loc>
+         <loc>https://datasciience-ensiie.github.io/about/</loc>
+         <lastmod>2022-08-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datasciience-ensiie.github.io/conferences/</loc>
          <lastmod>2022-08-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -31,17 +36,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://datasciience-ensiie.github.io/links/</loc>
+         <lastmod>2022-08-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://datasciience-ensiie.github.io/references/</loc>
          <lastmod>2022-08-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datasciience-ensiie.github.io/sessions/</loc>
-         <lastmod>2022-08-18</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://datasciience-ensiie.github.io/student-pack/</loc>
          <lastmod>2022-08-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
