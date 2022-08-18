@@ -41,8 +41,8 @@ graph LR
 
 - President
     - **-** : [LinkedIn]()
-- Vice-President, Head of IT Systems & Maintener
-    - **Lucas RODRIGUEZ** : [LinkedIn]() - [GitHub]()
+- Vice-President & Head of IT Systems
+    - **-** : [LinkedIn]()
 - Treasurer
     - **-** : [LinkedIn]()
 - Secretary General

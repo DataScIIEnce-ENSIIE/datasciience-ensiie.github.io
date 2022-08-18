@@ -1,14 +1,30 @@
+# Main settings of the website
+
+# Developer: Lucas RODRIGUEZ
+
+# Project information
 site_name: DataScIIEnce
+site_url: https://datasciience-ensiie.github.io
+site_author: DataScIIEnce
+site_description: >-
+  Data analisys, Machine and Deep learning student club of ENSIIE Paris
+
+# Copyright
 copyright: Copyright &copy; 2022 <b>DataScIIEnce</b>. All rights reserved<br> Machine & Deep learning association of <b>ENSIIE</b>
-repo_name: Git repository
+
+# Repository
+repo_name: Source
 repo_url: https://github.com/DataScIIEnce-ENSIIE/datasciience-ensiie.github.io
+
+# Configuration
 edit_uri: edit/main/docs/
 theme:
+  language: en
   custom_dir: overrides
   favicon: assets/img/logo_DS_transparent_alt.png
   logo: assets/img/logo_DS_transparent_alt.png
   icon:
-    repo: fontawesome/brands/github
+    repo: fontawesome/solid/house
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -31,7 +47,6 @@ extra_css:
 extra_javascript:
   - assets/scripts/extra.js
 
-site_url: https://datasciience-ensiie.github.io
 extra:
   generator: false
   social:
