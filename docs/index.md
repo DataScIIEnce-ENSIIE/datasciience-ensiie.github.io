@@ -28,10 +28,11 @@ We are a group of student passionate about **Data science**, **Machine learning*
 
 We are situated in our *French* engineering school : **ENSIIE Paris**[^1]. at Évry-Courcouronnes, France.
 
+<div id="map" style="height:300px; z-index:-9999;"></div>
 
-<div id="map" style="height:450px; z-index:-9999;"></div>
-
-
+| Association DataScIIEnce     | 
+| :---------- |
+| ENSIIE-AEIIE<br>1, Square de la Résistance<br>91000 Evry-Courcouronnes, France | 
 
 
 [^1]: ENSIIE is standing for *École Nationale Supérieure d'Informatique pour l'Industrie et l'Entreprise*.
@@ -65,6 +66,10 @@ function initialize() {
 
     map.addLayer(osmLayer);
 }
-initialize();
+</script>
 
+<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function() {
+    initialize();
+});
 </script>
