@@ -38,3 +38,15 @@ button#show-email:focus {
     border: 2px solid red;
     text-align: center;
 }
+
+.download_link {
+    display: block;
+    margin: 40px 0 !important;
+    border: 2px solid rgb(119, 119, 119);
+    padding: 10px 12px;
+    color: white !important;
+    width: 100%;
+    cursor: pointer;
+    text-align: center;
+    background-color: rgb(119, 119, 119);
+}
