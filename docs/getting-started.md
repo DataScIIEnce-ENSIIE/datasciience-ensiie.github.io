@@ -1,6 +1,8 @@
-# Guide
-
-Un guide de lancement a été rédigé par les équipes de **DataScIIEnce** afin d'aider les utilisateurs à se lancer au sein de l'écosystème en analyse de données.
+# Launch guide
 
 
-[Get the document](#)
+A beginner's guide has been written by the **DataScIIEnce** team to help the users in their launch into the data science ecosystem.
+
+
+
+<a class="download_link" href="">Download the guide</a>
