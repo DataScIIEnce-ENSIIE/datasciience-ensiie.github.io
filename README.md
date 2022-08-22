@@ -5,14 +5,20 @@
 <img src="https://img.shields.io/static/v1?label=DataScIIEnce&message=Associative project&color=007bff"/>&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=Languages&message=HTML, CSS, JS (JQuery)&color=ff0000"/>&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=Restriction&message=Open to public&color=26c601"/>
 
 
-# DataScIIEnce webapp V2
+# DataScIIEnce WEBAPP V2
 
 ## Introduction
 
 This Git repository is centralizing all the resources of the current website of **DataScIIEnce**.
 
 
-## Protocol
+## Instructions
+
+**Prequisities** : Please make sure you have :
+1. an active (non-deprecated Python version) $\longrightarrow$ `python3 -V`
+2. an active version of **pip** package manager $\longrightarrow$ `pip3 --version`
+3. the dependencies of this project $\longrightarrow$ `pip3 -r requirements.txt`
+
 
 - Open a new testing (ASGI) server to check the update on web app 
 ```console

@@ -80,7 +80,6 @@ nav:
   - References: "../references"
   - Useful links: "../links"
   - Contact: "../contact"
-  - License: "../license"
 markdown_extensions:
   - admonition
   - footnotes
