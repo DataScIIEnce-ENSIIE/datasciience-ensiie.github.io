@@ -29,20 +29,20 @@ graph LR
 ## 2022/2023 (current)
 
 - President
-    - **-** : [LinkedIn]()
+    - **Adib HABBOU** : [LinkedIn]()
 - Vice-President
-    - **-** : [LinkedIn]()
+    - **Rabab KHATIB** : [LinkedIn]()
 - Treasurer
-    - **-** : [LinkedIn]()
+    - **Valentin GARDEL** : [LinkedIn]()
 - Secretary General
-    - **-** : [LinkedIn]()
+    - **Alae KHIDOUR** : [LinkedIn]()
 
 ## 2021/2022
 
 - President
-    - **-** : [LinkedIn]()
+    - **Avraham ROSENBERG** : [LinkedIn]()
 - Vice-President & Head of IT Systems
-    - **-** : [LinkedIn]()
+    - **Lucas RODRIGUEZ** : [LinkedIn]()
 - Treasurer
     - **-** : [LinkedIn]()
 - Secretary General
