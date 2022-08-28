@@ -5,4 +5,4 @@ A beginner's guide has been written by the **DataScIIEnce** team to help the use
 
 
 
-<a class="download_link" href="">Download the guide</a>
+<a class="download_link" href="https://www.mediafire.com/file/lzs6zqcb2jx4b2q/DataScIIEnce-guide.pdf/file">Download the guide</a>
