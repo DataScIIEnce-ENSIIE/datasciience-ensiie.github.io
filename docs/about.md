@@ -29,29 +29,29 @@ graph LR
 ## 2022/2023 (current)
 
 - President
-    - **Adib HABBOU** : [LinkedIn]()
+    - **Adib HABBOU** : [LinkedIn](https://www.linkedin.com/in/adib-habbou/)
 - Vice-President
-    - **Rabab KHATIB** : [LinkedIn]()
+    - **Rabab KHATIB** : [LinkedIn](https://www.linkedin.com/in/rabab-khatib/)
 - Treasurer
-    - **Valentin GARDEL** : [LinkedIn]()
+    - **Valentin GARDEL** : [LinkedIn](https://www.linkedin.com/in/valentin-gardel-55b038223/)
 - Secretary General
-    - **Alae KHIDOUR** : [LinkedIn]()
+    - **Alae KHIDOUR** : [LinkedIn](https://www.linkedin.com/in/alae-khidour-719524231/)
 
 ## 2021/2022
 
 - President
-    - **Avraham ROSENBERG** : [LinkedIn]()
+    - **Avraham ROSENBERG** : [LinkedIn](https://www.linkedin.com/in/avraham-rosenberg/)
 - Vice-President & Head of IT Systems
-    - **Lucas RODRIGUEZ** : [LinkedIn]()
+    - **Lucas RODRIGUEZ** : [LinkedIn](https://www.linkedin.com/in/lcsrodriguez/)
 - Treasurer
-    - **-** : [LinkedIn]()
+    - **Khalil BATTIKH** : [LinkedIn](https://www.linkedin.com/in/khalil-battikh/)
 - Secretary General
-    - **-** : [LinkedIn]()
+    - **Armand VIOLLE** : [LinkedIn](https://www.linkedin.com/in/armand-violle-41a338203/)
 
 ## 2020/2021
 
 - President
-    - **-** : [LinkedIn]()
+    - **Romain ALFRED** : [LinkedIn](https://www.linkedin.com/in/romain-alfred/)
 - Vice-President
     - **-** : [LinkedIn]()
 - Treasurer
@@ -62,7 +62,7 @@ graph LR
 ## 2019/2020
 
 - President & Founder
-    - **-** : [LinkedIn]()
+    - **Nicolas MAKAROFF** : [LinkedIn](https://www.linkedin.com/in/nicolas-makaroff/)
 - Vice-President
     - **-** : [LinkedIn]()
 - Treasurer
